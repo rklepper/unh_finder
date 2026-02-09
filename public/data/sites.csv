@@ -1,4 +1,4 @@
-Settlement House,Title,Main Office (delete or move to keep formatting),Address,City,Borough,State,Zipcode,Programs,Early Childhood Education,Afterschool Programs,Older Adult Services,Latitude,Longitude
+﻿Settlement House,Title,Main Office (delete or move to keep formatting),Address,City,Borough,State,Zipcode,Programs,Early Childhood Education,Afterschool Programs,Older Adult Services,Latitude,Longitude
 Arab-American Family Support Center,Family Justice Center Staten Island,,126 Stuyvesant Place,Staten Island,Staten Island,NY,10301,Violence Prevention,,,,40.643158,-74.077194
 Arab-American Family Support Center,Family Justice Center Queens,,126-02 82nd Avenue,Kew Gardens,Queens,NY,11415,Violence Prevention,,,,40.713443,-73.826011
 Arab-American Family Support Center,Court Street Headquarters,X,150 Court Street,Brooklyn,Brooklyn,NY,11201,"Food Access, Family Services, Health & Fitness, Housing & Homelessness, Immigrant Services, Other Children & Youth Services",,,,40.68878,-73.992974
@@ -94,10 +94,10 @@ CAMBA,Homebase,,120 Stuyvesant Place,Staten Island,Staten Island,NY,10301,Housin
 CAMBA,Broadway House Women’s Shelter,,1245 Broadway,Brooklyn,Brooklyn,NY,11221,Housing & Homelessness,,,,40.691478,-73.925265
 CAMBA,Morris Manor,,1247 Flatbush Avenue,Brooklyn,Brooklyn,NY,11226,Housing & Homelessness,,,,40.639946,-73.954701
 CAMBA,Multi-service Program Office,,1259 Flatbush Avenue,Brooklyn,Brooklyn,NY,11226,"Mental Health & Substance Abuse, Health & Fitness",,,,40.639731,-73.954486
-CAMBA,"Park Slope Womens Shelter
+CAMBA,"Park Slope Women’s Shelter
 ",,"1402 8th Avenue
 ",Brooklyn,Brooklyn,NY,11215,Housing & Homelessness,,,,40.66255,-73.982217
-CAMBA,"Magnolia House Womens Shelter
+CAMBA,"Magnolia House Women’s Shelter
 ",,1424 Herkimer Street,Brooklyn,Brooklyn,NY,11233,Housing & Homelessness,,,,40.677169,-73.906251
 CAMBA,"Lower East Side Prepatory High School, Career Ready SYEP",,"145 Stanton Street
 ",New York,Manhattan,NY,10002,"Other Children & Youth Services, Youth Employment Services",,,,40.720544,-73.98578
@@ -131,9 +131,9 @@ CAMBA,Hegeman,,212 Hegeman Avenue,Brooklyn,Brooklyn,NY,11212,Housing & Homelessn
 CAMBA,Stuyvesant Cornerstone 1,,214 Stuyvesant Avenue,Brooklyn,Brooklyn,NY,11221,Cornerstone,,Afterschool,,40.687801,-73.933163
 CAMBA,"Highbridge Terrace, Citywide Scattered Site",,220 West 167th Street,Bronx,Bronx,NY,10452,Housing & Homelessness,,,,40.838813,-73.928284
 CAMBA,Multi-service Program Office,X,2244 Church Avenue,Brooklyn,Brooklyn,NY,11226,"Workforce Development, Immigrant Services, Health & Fitness, Housing & Homelessness",,,,40.650375,-73.956765
-CAMBA,Teachers Preparatory High School Bristol Street Campus,,226 Bristol Street,Brooklyn,Brooklyn,NY,11212,Other Children & Youth Services,,,,40.6657,-73.911788
+CAMBA,Teachers Preparatory High School - Bristol Street Campus,,226 Bristol Street,Brooklyn,Brooklyn,NY,11212,Other Children & Youth Services,,,,40.6657,-73.911788
 CAMBA,Highbridge Overlook,,240 West 167th Street,Bronx,Bronx,NY,10452,Housing & Homelessness,,,,40.839425,-73.928657
-CAMBA,"Atlantic House Mens Shelter/The Gathering Place Drop-in Center
+CAMBA,"Atlantic House Men’s Shelter/The Gathering Place Drop-in Center
 ",,2402 Atlantic Avenue,Brooklyn,Brooklyn,NY,11233,Housing & Homelessness,,,,40.675864,-73.90525
 CAMBA,Housing Legal Services,,241 37th Street,Brooklyn,Brooklyn,NY,11232,Housing & Homelessness,,,,40.655921,-74.00828
 CAMBA,SONYC at Andries Hudde J.H.S. 240,,2500 Nostrand Avenue,Brooklyn,Brooklyn,NY,11210,COMPASS/SONYC,,Afterschool,,40.623761,-73.946489
@@ -843,3 +843,73 @@ WHEDco,Hunts Point Job Center #40,,845 Barretto Street,Bronx,Bronx,NY,10474,Othe
 The Opportunity Hub,Main Office,X,1234 Pennsylvania Avenue,Brooklyn,Brooklyn,NY,11239,"Workforce Development, Food Access, Other Older Adult Services, Mental Health & Substance Abuse",,,Older Adults,40.6500261,-73.8871842
 The Opportunity Hub,Teen and Young Adult Programs,,1540 Van Siclen Avenue,Brooklyn,Brooklyn,NY,11239,"Other Children & Youth Services, Workforce Development, Mental Health & Substance Abuse, Civic Engagement & Community Organizing",,,,40.6474708,-73.8804133
 The Opportunity Hub,Spring Creek Towers Farm,,1430 Freeport Loop,Brooklyn,Brooklyn,NY,11239,"Food Access, Other Older Adult Services, Other Children & Youth Services",,,Older Adults,40.6449037,-73.884129
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
