@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UNH Finder</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+	<p>
+	</p>
+  <div class="brand">
+    <img src="./unh-logo.png" alt="United Neighborhood Houses logo" class="logo" />
+  </div>
+  <main class="wrapper">
+    <h1>Find Your Closest Settlement Houses
+   </h1>
+    <p class="subhead">
+     
+    </p>
+
+    <section>
+   <form id="searchForm" class="search">
+  <input
+    id="addressInput"
+    type="text"
+    placeholder="Enter an address (e.g., 45 Broadway, New York, NY 10006)"
+    autocomplete="street-address"
+  />
+  <button type="submit">Search</button>
+  <button type="button" id="btnLocate">Use my location</button>
+</form>
+
+<p id="status" class="status" aria-live="polite"></p>  
+      <div id="cards" class="cards"></div>
+      <p class="note">
+  Settlement houses operate programs at multiple sites throughout their neighborhoods.
+  Addresses shown are the settlement house’s main location.
+</p>
+    </section>
+  </main>
+
+  <script type="module" src="./app.js"></script>
+
+</body>
+</html>
