@@ -7,8 +7,8 @@ const btnLocate = document.getElementById("btnLocate");
 (async function () {
   const BASE = import.meta.env.BASE_URL;
   // 1) Fetch CSV text
-  const sitesText = await (await fetch(`${BASE}data/sites.csv`)).text();
-  const shText = await (await fetch(`${BASE}data/settlement_houses.csv`)).text();
+  const sitesText = await (await fetch(`${BASE}public/data/sites.csv`)).text();
+  const shText = await (await fetch(`${BASE}public/data/settlement_houses.csv`)).text();
 
   // 2) Parse CSV
   const sites = parseCsv(sitesText);
