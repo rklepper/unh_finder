@@ -60,7 +60,7 @@ const fullAddress = [street, city, state, zip]
 
 return {
   settlementHouse: (r["Settlement House"] || "").trim(),
-  title: (r["Title"] || "").trim(),
+  title: cleanText((r["Title"] || "").trim(),
   address: fullAddress,
   distanceMiles: haversineMiles(user.lat, user.lon, lat, lon),
 };
@@ -322,3 +322,9 @@ function escapeAttr(str) {
   return escapeHtml(str);
 }
 
+function cleanTest(str) {
+    return (str || "")
+    .replace(\,Äôs/g, "'s")
+    .replace(/[']/g, "'")
+    .trim();
+}
